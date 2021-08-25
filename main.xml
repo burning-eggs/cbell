@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<workspace>
+    <repositories>
+        <repository
+            path="Uri"
+            url="https://github.com/wake-code/Uri.git"
+            branch="master"
+            />
+        <repository
+            path="googletest"
+            url="https://github.com/google/googletest.git"
+            />
+    </repositories>
+</workspace>
