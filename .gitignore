@@ -1,2 +1,6 @@
+# Building
+/build/
+
+# Mono Repositories
 /googletest/
 /Uri/
