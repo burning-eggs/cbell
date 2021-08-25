@@ -11,7 +11,7 @@ Right now, the way you use this solution is to build it and run the unit tests f
 
 ## Libraries hosted in this solution
 
-* Uri -- Implementation of [RFC 3986](https://tools.ietf.org/html/rfc3986),
+* [Uri](https://github.com/wake-code/uri) -- Implementation of [RFC 3986](https://tools.ietf.org/html/rfc3986),
 "Uniform Resource Identifier (URI): Generic Syntax"
 
 ## Supported Platforms / Recommended Toolchains
